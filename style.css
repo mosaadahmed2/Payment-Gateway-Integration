@@ -92,7 +92,7 @@ ul li.active a{
 .title h1{
     color: rgb(255, 0, 0);
     font-size:70px;
-background-color: #000000;
+background-color: rgb(0, 0, 0);
 }
 
 .button{
